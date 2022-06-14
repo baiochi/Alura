@@ -130,3 +130,9 @@ dmypy.json
 
 # Mac temp files
 .DS_Store
+
+# large files
+# find * -size +50M | cat >> .gitignore
+Geopandas/01.Dados/Vegeta‡ֶo e Uso do Solo/Cobertura_Vegetal_e_Uso_da_Terra_2016.geojson
+Geopandas 2/01.Dados/Vegeta‡ֶo e Uso do Solo/Cobertura_Vegetal_e_Uso_da_Terra_2016.geojson
+untitled folder/ffmpeg
